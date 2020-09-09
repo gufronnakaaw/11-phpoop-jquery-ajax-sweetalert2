@@ -14,4 +14,5 @@ if you want to use, follow this step :
 6. change database name with your database name.
 7. done.
 
+password login : username : admin, password : admin
 hope you enjoy! :)
